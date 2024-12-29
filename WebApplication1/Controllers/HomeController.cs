@@ -6,6 +6,8 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            string userName = HttpContext.Session.GetString("UserFullName");
+            ViewBag.UserName = userName;
             return View();
         }
     }

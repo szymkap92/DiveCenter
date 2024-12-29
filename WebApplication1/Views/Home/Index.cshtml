@@ -1,2 +1,11 @@
 ﻿<h1>Welcome to the Dive Center</h1>
 <p>This is the home page.</p>
+
+@if (ViewBag.UserName != null)
+{
+    <p>Witaj, @ViewBag.UserName!</p>
+}
+else
+{
+    <p>Nie jesteś zalogowany. <a href="/Account/Login">Zaloguj się</a>.</p>
+}
