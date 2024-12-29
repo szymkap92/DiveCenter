@@ -1,11 +1,160 @@
-﻿<h1>Welcome to the Dive Center</h1>
-<p>This is the home page.</p>
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dive Center</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('/img/Backgraund.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
 
-@if (ViewBag.UserName != null)
-{
-    <p>Witaj, @ViewBag.UserName!</p>
-}
-else
-{
-    <p>Nie jesteś zalogowany. <a href="/Account/Login">Zaloguj się</a>.</p>
-}
+        nav {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+      
+
+            nav .logo {
+                color: #fff;
+                font-size: 1.5rem;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            nav ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                gap: 1.5rem;
+            }
+
+                nav ul li {
+                    display: inline;
+                }
+
+                    nav ul li a {
+                        color: #fff;
+                        text-decoration: none;
+                        font-size: 1rem;
+                        transition: color 0.3s ease;
+                    }
+
+                        nav ul li a:hover {
+                            color: #007bff;
+                        }
+
+        .hero {
+            text-align: center;
+            margin-top: 10vh;
+            padding: 2rem;
+            flex: 1; 
+        }
+
+            .hero h1 {
+                font-size: 3rem;
+                margin-bottom: 1rem;
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            }
+
+            .hero p {
+                font-size: 1.2rem;
+                margin-bottom: 2rem;
+            }
+
+            .hero .btn {
+                padding: 0.75rem 1.5rem;
+                margin: 0 0.5rem;
+                font-size: 1rem;
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                text-decoration: none;
+            }
+
+                .hero .btn:hover {
+                    background-color: #0056b3;
+                }
+
+        .info-section {
+            padding: 2rem;
+            text-align: center;
+            background-color: rgba(0, 0, 0, 0.8);
+            margin: 2rem 0;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+            .info-section h2 {
+                margin-bottom: 1rem;
+                color: #fff;
+            }
+
+            .info-section p {
+                color: #ccc;
+            }
+
+        footer {
+            background-color: rgba(0, 0, 0, 0.9);
+            color: #ccc;
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.9rem;
+        }
+
+            footer a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                footer a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="logo">Dive Center</a>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/Account/Login">Login</a></li>
+            <li><a href="/Account/Register">Register</a></li>
+            <li><a href="/Contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero">
+        <h1>Welcome to Dive Center</h1>
+        <p> Your gateway to underwater adventures. Explore the ocean with us.</p>
+       
+    </div>
+
+    <div class="info-section">
+        <h2>Why Choose Us?</h2>
+        <p>At Dive Center, we provide the best diving experiences with professional instructors, top-notch equipment, and unforgettable memories.</p>
+    </div>
+
+    <footer>
+        &copy; 2024 Dive Center. All Rights Reserved. | <a href="/Privacy">Privacy Policy</a> | <a href="/Terms">Terms of Service</a>
+    </footer>
+</body>
+</html>

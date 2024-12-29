@@ -21,7 +21,7 @@ namespace WebApplication1.Controllers
 
         
         [HttpPost]
-        public IActionResult Register(User user)
+        public IActionResult Register([FromForm]User user)
         {
             if (ModelState.IsValid)
             {

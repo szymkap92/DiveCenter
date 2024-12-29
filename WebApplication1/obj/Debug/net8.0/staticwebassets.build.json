@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "SOwnQaRbYOGhWkmnAJKwdq79srT7hswqSxEp5hi48iY=",
+  "Hash": "kN0uZHp/dIw+0hP8lfLuHbaUD3JpMFmc2NF/zqQIkJg=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\wwwroot\\img\\Backgraund.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/Backgraund#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zqu9euxxet",
+      "Integrity": "FaaJ5xFPm3DmLdJH/HyDH6qkWOxaLGNkNweYPuNd1j0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Backgraund.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/Backgraund.jpg",
+      "AssetFile": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\wwwroot\\img\\Backgraund.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FaaJ5xFPm3DmLdJH/HyDH6qkWOxaLGNkNweYPuNd1j0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 18:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FaaJ5xFPm3DmLdJH/HyDH6qkWOxaLGNkNweYPuNd1j0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Backgraund.zqu9euxxet.jpg",
+      "AssetFile": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\wwwroot\\img\\Backgraund.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FaaJ5xFPm3DmLdJH/HyDH6qkWOxaLGNkNweYPuNd1j0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 18:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqu9euxxet"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Backgraund.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FaaJ5xFPm3DmLdJH/HyDH6qkWOxaLGNkNweYPuNd1j0="
+        }
+      ]
+    }
+  ]
 }

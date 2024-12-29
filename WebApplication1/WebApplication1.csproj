@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Include="WebApplication1.csproj.user" />
+    <None Include="wwwroot\img\Backgraund.jpg" />
   </ItemGroup>
 
   <ItemGroup>

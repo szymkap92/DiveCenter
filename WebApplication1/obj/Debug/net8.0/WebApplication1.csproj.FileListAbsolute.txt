@@ -334,3 +334,4 @@ C:\Users\szymo\Downloads\DiveCenter-main\DiveCenter-main\WebApplication1\obj\Deb
 C:\Users\szymo\Downloads\DiveCenter-main\DiveCenter-main\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
 C:\Users\szymo\Downloads\DiveCenter-main\DiveCenter-main\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
 C:\Users\szymo\Downloads\DiveCenter-main\DiveCenter-main\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\szymo\Downloads\DiveCenter-main\DiveCenter-main\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json

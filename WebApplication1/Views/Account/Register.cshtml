@@ -1,26 +1,108 @@
-﻿@model WebApplication1.Models.User
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rejestracja</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
 
-<h2>Rejestracja</h2>
-<form asp-action="Register" method="post">
-    <div>
-        <label>Email:</label>
-        <input asp-for="Email" />
-        <span asp-validation-for="Email"></span>
+        .register-container {
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        h2 {
+            margin-bottom: 1.5rem;
+            color: #333;
+            text-align: center;
+        }
+
+        form div {
+            margin-bottom: 1rem;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: #555;
+            font-size: 0.9rem;
+        }
+
+        input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+
+            input:focus {
+                border-color: #007bff;
+                outline: none;
+            }
+
+        span {
+            display: block;
+            margin-top: 0.25rem;
+            font-size: 0.8rem;
+            color: #e63946;
+        }
+
+        button {
+            width: 100%;
+            padding: 0.75rem;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="register-container">
+        <h2>Rejestracja</h2>
+        <form asp-action="Register" method="post">
+            <div>
+                <label>Email:</label>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div>
+                <label>Pełne imię i nazwisko:</label>
+                <input asp-for="FullName" />
+                <span asp-validation-for="FullName"></span>
+            </div>
+            <div>
+                <label>Numer telefonu:</label>
+                <input asp-for="PhoneNumber" />
+                <span asp-validation-for="PhoneNumber"></span>
+            </div>
+            <div>
+                <label>Hasło:</label>
+                <input asp-for="PasswordHash" type="password" />
+                <span asp-validation-for="PasswordHash"></span>
+            </div>
+            <button type="submit">Zarejestruj</button>
+        </form>
     </div>
-    <div>
-        <label>Pełne imię i nazwisko:</label>
-        <input asp-for="FullName" />
-        <span asp-validation-for="FullName"></span>
-    </div>
-    <div>
-        <label>Numer telefonu:</label>
-        <input asp-for="PhoneNumber" />
-        <span asp-validation-for="PhoneNumber"></span>
-    </div>
-    <div>
-        <label>Hasło:</label>
-        <input asp-for="PasswordHash" type="password" />
-        <span asp-validation-for="PasswordHash"></span>
-    </div>
-    <button type="submit">Zarejestruj</button>
-</form>
+</body>
+</html>
