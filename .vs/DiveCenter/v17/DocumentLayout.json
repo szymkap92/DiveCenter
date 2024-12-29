@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\migrations\\20241205203538_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241205203538_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\migrations\\20241229112553_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241229112553_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\migrations\\20241205203538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241205203538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\webapplication1.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|c:\\users\\szymo\\downloads\\divecenter-main\\divecenter-main\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17FF0AAB-DDCA-41D6-88B4-C5E556CFD054}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:19:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241205203538_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241205203538_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241205203538_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241205203538_InitialCreate.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241205203538_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:19:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241229112553_AddUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241229112553_AddUserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241229112553_AddUserModel.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241229112553_AddUserModel.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241229112553_AddUserModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:25:53.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:23:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:44:46.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:44:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:49:10.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:19:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:18:26.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241205203538_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241205203538_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241205203538_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Migrations\\20241205203538_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241205203538_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:44:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:48:28.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:29:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication1.csproj.user",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\WebApplication1.csproj.user",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj.user",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\WebApplication1.csproj.user",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-27T09:34:56.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T09:28:18.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T09:28:15.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\szymo\\Downloads\\DiveCenter-main\\DiveCenter-main\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T09:28:06.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
