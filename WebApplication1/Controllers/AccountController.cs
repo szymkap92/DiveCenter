@@ -19,20 +19,19 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        
         [HttpPost]
-        public IActionResult Register([FromForm]User user)
+        public IActionResult Register([FromForm] User user)
         {
             if (ModelState.IsValid)
             {
-                
+                // Check if email is already registered
                 if (_context.Users.Any(u => u.Email == user.Email))
                 {
-                    ModelState.AddModelError("Email", "Ten email jest już zarejestrowany.");
+                    ModelState.AddModelError("Email", "This email is already registered.");
                     return View(user);
                 }
 
-                
+                // Add new user to the database
                 _context.Users.Add(user);
                 _context.SaveChanges();
 
@@ -42,13 +41,11 @@ namespace WebApplication1.Controllers
             return View(user);
         }
 
-       
         public IActionResult Login()
         {
             return View();
         }
 
-       
         [HttpPost]
         public IActionResult Login(string email, string password)
         {
@@ -56,17 +53,16 @@ namespace WebApplication1.Controllers
 
             if (user == null || user.PasswordHash != password)
             {
-                ModelState.AddModelError("", "Nieprawidłowe dane logowania.");
+                ModelState.AddModelError("", "Invalid login credentials.");
                 return View();
             }
 
-           
+            // Store user full name in session
             HttpContext.Session.SetString("UserFullName", user.FullName);
 
             return RedirectToAction("Index", "Home");
         }
 
-      
         public IActionResult Logout()
         {
             HttpContext.Session.Clear();

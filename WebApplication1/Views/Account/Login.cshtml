@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logowanie</title>
+    <title>Login</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,6 +14,7 @@
             align-items: center;
             height: 100vh;
         }
+
         .login-container {
             background-color: #fff;
             padding: 2rem;
@@ -22,20 +23,24 @@
             width: 100%;
             max-width: 400px;
         }
+
         h2 {
             margin-bottom: 1.5rem;
             color: #333;
             text-align: center;
         }
+
         form div {
             margin-bottom: 1rem;
         }
+
         label {
             display: block;
             margin-bottom: 0.5rem;
             color: #555;
             font-size: 0.9rem;
         }
+
         input {
             width: 100%;
             padding: 0.75rem;
@@ -43,10 +48,12 @@
             border-radius: 4px;
             font-size: 1rem;
         }
-        input:focus {
-            border-color: #007bff;
-            outline: none;
-        }
+
+            input:focus {
+                border-color: #007bff;
+                outline: none;
+            }
+
         button {
             width: 100%;
             padding: 0.75rem;
@@ -57,39 +64,43 @@
             font-size: 1rem;
             cursor: pointer;
         }
-        button:hover {
-            background-color: #0056b3;
-        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
         p {
             margin-top: 1rem;
             text-align: center;
             font-size: 0.9rem;
             color: #555;
         }
+
         a {
             color: #007bff;
             text-decoration: none;
         }
-        a:hover {
-            text-decoration: underline;
-        }
+
+            a:hover {
+                text-decoration: underline;
+            }
     </style>
 </head>
 <body>
     <div class="login-container">
-        <h2>Logowanie</h2>
+        <h2>Login</h2>
         <form asp-action="Login" method="post">
             <div>
                 <label>Email:</label>
                 <input name="email" />
             </div>
             <div>
-                <label>Hasło:</label>
+                <label>Password:</label>
                 <input name="password" type="password" />
             </div>
-            <button type="submit">Zaloguj</button>
+            <button type="submit">Login</button>
         </form>
-        <p>Nie masz konta? <a href="/Account/Register">Zarejestruj się</a></p>
+        <p>Don't have an account? <a href="/Account/Register">Register</a></p>
     </div>
 </body>
 </html>

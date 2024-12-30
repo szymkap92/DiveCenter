@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rejestracja</title>
+    <title>Registration</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -79,7 +79,7 @@
 </head>
 <body>
     <div class="register-container">
-        <h2>Rejestracja</h2>
+        <h2>Registration</h2>
         <form asp-action="Register" method="post">
             <div>
                 <label>Email:</label>
@@ -87,21 +87,21 @@
                 <span asp-validation-for="Email"></span>
             </div>
             <div>
-                <label>Pełne imię i nazwisko:</label>
+                <label>Full Name:</label>
                 <input asp-for="FullName" />
                 <span asp-validation-for="FullName"></span>
             </div>
             <div>
-                <label>Numer telefonu:</label>
+                <label>Phone Number:</label>
                 <input asp-for="PhoneNumber" />
                 <span asp-validation-for="PhoneNumber"></span>
             </div>
             <div>
-                <label>Hasło:</label>
+                <label>Password:</label>
                 <input asp-for="PasswordHash" type="password" />
                 <span asp-validation-for="PasswordHash"></span>
             </div>
-            <button type="submit">Zarejestruj</button>
+            <button type="submit">Register</button>
         </form>
     </div>
 </body>
